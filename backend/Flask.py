@@ -58,8 +58,6 @@ def delete_journal():
     
     ID can be stored in the JSON
     
-    
-    
     """
 """
 Sample Java Script 
